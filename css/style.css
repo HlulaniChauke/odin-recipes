@@ -1,1 +1,11 @@
 /* css style*/
+div{
+    text-align: center;
+    background-color: rgb(139, 222, 231);
+}
+
+.list{
+    color: darkblue;
+    font-size:14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
